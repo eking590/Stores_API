@@ -1,0 +1,48 @@
+{
+    "mailgun_failed_load_api_key": "failed to load MailGun API key.",
+    "mailgun_failed_load_domain": "failed to load MailGun domain.",
+    "mailgun_error_send_email": "error in sending confirmation email, user registration failed.",
+
+    "confirmation_not_found" : "Confirmation reference not found.",
+    "confirmation_link_expired" : "The link has expired.", 
+    "confirmation_already_confirmed" : "Registration has already been confirmed.",
+    "confirmation_resend_fail" :"Internal server error. Failed to resend confirmation email.", 
+    "confirmation_resend_successfully" : "E-mail confirmation successfully re-sent." , 
+
+    "item_name_exists ": "An item with name '{}' already exists.", 
+    "item_error_inserting" : "An error occurred while inserting the item.", 
+    "item_not_found": "Item not found.", 
+    "item_deleted" : "Item deleted." , 
+
+    "store_name_exists": "A store with name '{}' already exists.", 
+    "store_error_inserting" : "An error occurred while inserting the store.",
+    "store_not_found": "Store not found.", 
+    "store_deleted" : "Store deleted." ,
+
+    "blank_error": " '{}' cannot be blank!",
+    "user_username_exists" : "A User with the Username already exists",
+    "user_registered" : "Account created successfully !! an email with an activation link has been sent to your email, please check!!" ,
+    "user_not_found" : "User not found", 
+    "user_deleted" : "User deleted" ,
+    "user_invalid_credentials" : "invalid credentials" , 
+    "user_logged_out" : "User <id={}> Successfully logged out" ,
+    "user_not_confirmed" : "You have not confirmed registration, please check your email <{}>.",
+    "user_confirmed" : "user confirmed!", 
+    "user_email_exists" : "this email already exists", 
+    "user_error_creating" : " Internal Server Error!!! failed to create user",
+
+
+    "image_uploaded": "image '{}' uploaded ", 
+    "image_illegal_extension": "extension '{}' is not allowed." , 
+    "image_not_found": "image '{}' not found!!! ", 
+    "image_illegal_file_name": "illegal image '{}' found ", 
+    "image_deleted": "image '{}' deleted!!!" ,
+    "image_delete_failed" : "internel server error!! failed to delete image.", 
+
+    "avatar_not_found": "avatar not found!", 
+    "avatar_delete_failed" : "failed to delete avatar", 
+    "avatar_uploaded": "avatar '{}' uploaded successfully!" 
+
+
+
+}
